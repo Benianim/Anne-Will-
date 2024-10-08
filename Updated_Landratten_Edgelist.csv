@@ -1,0 +1,210 @@
+from;to;time;connection
+ma;bmb;1796;2
+ma;khi;1796;2
+ma;tcy;1796;2
+ma ;sha;1796;2
+hn;stm;1796;2
+hn ;sdg;1796;2
+ax;sag;1797;2
+ax;sha;1797;2
+pm;bng;1796;2
+pm;mrs;1796;2
+pm;cgh;1796;2
+pm;cta;1796;2
+eoa;bmb;1797;2
+eoa;sha;1797;2
+eoa;ggg;1797;2
+tc;cta;1797;2
+tc;sha;1797;2
+ssl;mrs;1797;2
+ssl;cape of Good Hope;1797;2
+ssl;cta;1797;2
+ssl;pag;1797;2
+ssl;sag;1797;2
+ssl;sha;1797;2
+ctt;ggg;1797;2
+ctt;sha;1797;2
+tms;sha;1797;2
+tms;Amboina;1797;2
+tms;ggg;1797;2
+tms;cape of Good Hope;1797;2
+npt;bmb;1797;2
+npt;khi;1797;2
+npt;mlc;1797;2
+npt;ggg;1797;2
+npt;sha;1797;2
+crs;mrs;1796;2
+cfn;ggg;1797;2
+cfn;cape of Good Hope;1797;2
+cfn;sha;1797;2
+pch;mrs;1796;2
+pch;tco;1797;2
+pch;sha;1797;2
+wrl;bmb;1797;2
+wrl;tcy;1797;2
+wrl;khi;1797;2
+wrl;ggg;1797;2
+wrl;sha;1797;2
+brw;bmb;1795;2
+brw;tcy;1795;2
+brw;cta;1795;2
+brw ;cta;1795;2
+brw;bmb;1796;2
+mdd;sha;1797;2
+mdd;cape of Good Hope;1797;2
+mdd;cta;1797;2
+mdd;sag;1797;2
+ntl;bng;1797;2
+ntl;cape of Good Hope;1797;2
+et;mrs;1797;2
+et;bmb;1800;2
+lc;mrs;1780;2
+lc;mlc;1780;2
+pg;sha;1782;2
+pg;mrs;1783;2
+pg;bng;1783;2
+hr;cta;1795;2
+it;bng;1794;2
+it;mrs;1794;2
+;;;
+it;cta;1795;2
+ir;bmb;1818;2
+;;;
+cc;waa;1795;2
+cc;Whampoa;1797;2
+my;mrs;1796;2
+ly;Barbados;1795;2
+ay;Blackwall;1796;2
+hl;cgh;1796;2
+un;West Africa;1796;2
+ls;cta;1795;2
+ls;Diamond Harbour;1795;2
+ls;Saint Helena;1795;2
+ls;River Shannon;1795;2
+ls;The Downs;1795;2
+ls;cgh;1796;2
+ln;India;1796;2
+mat;Barbados;1795;2
+mat;Demerara;1797;2
+mat;St. Vincent;1798;2
+oc;Portsmouth;1796;2
+oc;Cowes;1796;2
+oc;Simons Bay;1796;2
+oc;Diamond Harbour;1796;2
+oc;cta;1796;2
+oc;bng;1798;2
+pf;bng;1797;2
+tr;the Cape;1796;2
+tr;Saint Helena;1796;2
+tr;The Downs;1797;2
+wb;the Cape;1796;2
+wb;mrs;1796;2
+wb;bng;1796;2
+wb;kedgeree;1797;2
+wb;Diamond Harbour;1797;2
+wb;Cork;1798;2
+wb;The Downs;1798;2
+fr;bng;1796;2
+fr;Sao Tiago;1796;2
+fr;Simons Bay;1796;2
+fr;the Cape;1796;2
+fr;bng;1797;2
+fr;mrs;1797;2
+fr;cta;1797;2
+fr;sag;1798;2
+fr;the Cape;1798;2
+fr;sha;1798;2
+fr;Long Reach;1798;2
+hr;the cape ;1797;2
+hr;madras;1797;2
+hr;cta;1798;2
+ha;cgh;1797;2
+ha;waa;1797;2
+ha;Bally Town;1797;2
+ha;the Cape;1797;2
+ha;the Downs;1798;2
+maa;bng;1796;2
+maa;cgh;1796;2
+maa;cta;1797;2
+maa;kge;1797;2
+maa;pag;1797;2
+maa;the Cape;1797;2
+maa;Saint Helena;1798;2
+maa;the Downs;1798;2
+mi;mrs;1795;2
+mi;bng;1795;2
+mi ;Diamond Harbour;1795;2
+mi;Coxs Island;1795;2
+mi;mrs;1796;2
+mi;the Cape;1796;2
+mi;sha;1796;2
+mi;the Downs;1796;2
+mi;mrs;1797;2
+mi;pag;1797;2
+mi;Diamond Harbour;1797;2
+mi;sag;1798;2
+mi;Colombo;1798;2
+mi;the Cape;1798;2
+mi;sha;1798;2
+mi;Long Reach;1798;2
+pw;cgh;1796;2
+pw;Port Jackson;1796;2
+pw;waa;1796;2
+ra;Angola;1796;2
+sy;Botany Bay;1796;2
+sy;China;1796;2
+gh;Bombay;1796;2
+gh;mrs;1796;2
+et;mrs;1797;2
+et;China;1797;2
+et;pag;1798;2
+et;mlc;1798;2
+et;waa;1798;2
+et;sha;1798;2
+et;the Downs;1798;2
+qu;sag;1795;2
+qu;mrs;1795;2
+qu;sha;1795;2
+qu;the Downs;1795;2
+qu;sha;1796;2
+qu;the Cape;1796;2
+qu;Bencoolen;1796;2
+qu;mrs;1797;2
+qu;Bencoolen;1797;2
+qu;Diamond Harbour;1797;2
+qu;sag;1797;2
+qu;Bencoolen;1798;2
+lo;Kingston;1798;2
+jj;Bombay;1798;2
+oc;cgh;1796;2
+oc;Diamond Harbour;1796;2
+oc;cta;1796;2
+oc;kge;1796;2
+oc;tco;1796;2
+oc;sha;1796;2
+op;bng;1798;2
+op;mrs;1798;2
+sc;mrs;1798;2
+sc;cgh;1798;2
+mn;mrs;1798;2
+mn;bng;1798;2
+mn;pag;1798;2
+th;sha;1796;2
+th;China;1796;2
+th;cgh;1796;2
+wa;mrs;1798;2
+wa;bng;1798;2
+wa;Diamond Harbour;1798;2
+dc;cgh;1798;2
+dc;mrs;1798;2
+dc;sha;1798;2
+ld;bng;1798;2
+;;;
+cc;bng;1797;2
+cc;cta;1797;2
+cc;mrs;1797;2
+as;mrs;1796;2
+as;bng;1796;2
+as;Bombay;1796;2
+as;China;1796;2
+as;kge;1796;2
